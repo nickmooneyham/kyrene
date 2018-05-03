@@ -1,0 +1,19 @@
+{
+  "name": "kyrene",
+  "version": "1.0.0",
+  "description": "Button Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "hahahah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nickmooneyham/kyrene.git"
+  },
+  "author": "Nick Mooneyham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickmooneyham/kyrene/issues"
+  },
+  "homepage": "https://github.com/nickmooneyham/kyrene#readme"
+}
